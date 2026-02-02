@@ -1,0 +1,5 @@
+Terminal Commands
+
+Checking python Version on cmd -> python --version
+Updating the cmd Installer i think ? -> pip install --upgrade pip
+Install jupyer lab and notebook -> pip install jupyterlab
